@@ -4,13 +4,6 @@
   ✨ I'm a front-end Developer of web ✨
 </h2>
 
-<h3 align="center">💬 Ask me about 💬</h3>
-
-<p align="center">
-  I'm currently looking for a new job. <br/>
-  If you have a suitable job, please contact me.
-</p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/%E4%BD%A9%E9%A6%A8-%E7%8E%8B-a88a9b20a/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/>
